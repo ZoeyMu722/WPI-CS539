@@ -1,8 +1,6 @@
 # WPI-CS539
 Coursework projects and assignments for WPI graduate course CS539 (Machine Learning)
 
-
-
 CS539 – Machine Learning
 
 Key project:
@@ -17,9 +15,9 @@ Identified key predictors such as heredity, stress, smoking habits, and age, pro
 Skills: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Feature Engineering, Model Evaluation, Health Data Analytics
 
 You can see PDF for full solutions
-├── hw1-ZongyuMu.pdf
-├── hw2-ZongyuMu.pdf
-├── hw3-ZongyuMu.pdf
+├── assignment-ZongyuMu-1.zip
+├── assignment2-ZongyuMu.zip
+├── Proposal-Predicting Baldness Risk and Hair Loss Severity Based on Personal Characteristics Using Machine Learning(4).pdf
 └── README.md
 
 This repository contains my original solutions; problem statements are omitted per course policy.
