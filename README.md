@@ -32,6 +32,8 @@ The project aimed to predict both the **probability of developing baldness** and
 ┣ 📄 assignment3-ZongyuMu.zip
 ┣ 📄 assignment4-ZongyuMu.zip
 ┣ 📄 Proposal-Predicting Baldness Risk and Hair Loss Severity.pdf
+┣ 📄 ml_report.pdf
+┣ 📄 hairloss_prediction.zip
 ┗ 📄 README.md
 
 Each archive includes code implementations, datasets, and project documentation.  
